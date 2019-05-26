@@ -25,6 +25,6 @@ npm install
 ## Usage
 
 At `index.js`, there are some functions with their descriptions.
-Invoke each of them to see them working.
+Invoke each of them by typying `node index.js` to see them working.
 
 Creat your own functions... Have fun :stuck_out_tongue_winking_eye:
